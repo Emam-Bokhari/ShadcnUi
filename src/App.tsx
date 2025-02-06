@@ -1,10 +1,10 @@
 import { Fragment } from "react/jsx-runtime";
-import AlertComponent from "./practice/AlertComponent";
+import AlertDialogComponent from "./practice/AlertDialogComponent";
 
 export default function App() {
   return (
     <Fragment>
-      <AlertComponent />
+      <AlertDialogComponent />
     </Fragment>
   );
 }
