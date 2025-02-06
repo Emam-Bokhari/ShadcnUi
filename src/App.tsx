@@ -1,10 +1,10 @@
 import { Fragment } from "react/jsx-runtime";
-import CalendarComponent from "./practice/CalendarComponent";
+import CardComponent from "./practice/CardComponent";
 
 export default function App() {
   return (
     <Fragment>
-      <CalendarComponent />
+      <CardComponent />
     </Fragment>
   );
 }
