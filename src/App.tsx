@@ -1,10 +1,10 @@
 import { Fragment } from "react/jsx-runtime";
-import BadgeComponent from "./practice/BadgeComponent";
+import ButtonComponent from "./practice/ButtonComponent";
 
 export default function App() {
   return (
     <Fragment>
-      <BadgeComponent />
+      <ButtonComponent />
     </Fragment>
   );
 }
