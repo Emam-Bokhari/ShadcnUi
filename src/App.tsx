@@ -1,10 +1,10 @@
 import { Fragment } from "react/jsx-runtime";
-import AccordionComponent from "./practice/AccordionComponent";
+import AlertComponent from "./practice/AlertComponent";
 
 export default function App() {
   return (
     <Fragment>
-      <AccordionComponent />
+      <AlertComponent />
     </Fragment>
   );
 }
