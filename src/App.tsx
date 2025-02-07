@@ -1,10 +1,10 @@
 import { Fragment } from "react/jsx-runtime";
-import CardComponent from "./practice/CardComponent";
+import CheckboxComponent from "./practice/CheckboxComponent";
 
 export default function App() {
   return (
     <Fragment>
-      <CardComponent />
+      <CheckboxComponent />
     </Fragment>
   );
 }

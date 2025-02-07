@@ -5,7 +5,7 @@ import { MailOpen } from "lucide-react";
 export default function ButtonComponent() {
   return (
     <div className="space-x-4 my-10">
-      <Button>Click Here</Button>
+      <Button className="bg-primary">Click Here</Button>
       {/* variants */}
       <Button variant="destructive" size="sm">
         Destructive
