@@ -1,10 +1,10 @@
 import { Fragment } from "react/jsx-runtime";
-import CheckboxComponent from "./practice/CheckboxComponent";
+import DialogComponent from "./practice/DialogComponent";
 
 export default function App() {
   return (
     <Fragment>
-      <CheckboxComponent />
+      <DialogComponent />
     </Fragment>
   );
 }
